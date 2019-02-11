@@ -1,4 +1,5 @@
 #A read me test file 
+#How to use Git
 
 Source: https://www.youtube.com/watch?v=0fKg7e37bQE
 Video Name: Github Tutorial For Beginners - Github Basics for Mac or Windows & Source Control Basics
